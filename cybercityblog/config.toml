@@ -1,0 +1,8 @@
+languageCode= "en-us"
+baseUrl= "cybercity.github.io"
+title= "CyberCity"
+theme= "anubis"
+paginate= 10
+disqusShortname= "cybercity"
+googleAnalytics= ""
+enableRobotsTXT= true
