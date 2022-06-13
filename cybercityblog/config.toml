@@ -1,5 +1,5 @@
 languageCode= "en-us"
-baseUrl= "cybercity.github.io"
+baseUrl= "/"
 title= "CyberCity"
 theme= "anubis"
 paginate= 10
