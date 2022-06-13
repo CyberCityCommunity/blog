@@ -1,3 +1,7 @@
 [submodule "cybercityblog/themes/anubis"]
 	path = cybercityblog/themes/anubis
 	url = https://github.com/mitrichius/hugo-theme-anubis.git
+[submodule "public"]
+	path = cybercityblog/public
+	url = https://github.com/CyberCityCommunity/cybercity.github.io.git
+	branch = main
